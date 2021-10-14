@@ -1,3 +1,7 @@
 This is a file in smartGitbranch
 
 changes made in Aleena branch 
+
+creating conflict from aleena branch
+
+
